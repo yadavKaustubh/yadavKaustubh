@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UI/UX Design 
 - 📫 Contact me: ykaustubh22@gmail.com
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavKaustubh&show_icons=true&theme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavKaustubh&show_icons=true&theme=gruvbox)
 
 <!---
 yadavKaustubh/yadavKaustubh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
