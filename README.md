@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Cloud Native Web Development 
 - 📫 Contact me: ykaustubh22@gmail.com
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavKaustubh&show_icons=true&theme=gruvbox)
+<img src="https://github-readme-stats.vercel.app/api?username=yadavKaustubh&show_icons=true&theme=gruvbox" align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavKaustubh&layout=compact&theme=gruvbox)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavKaustubh&layout=compact&theme=gruvbox" align="center"/>
 
 
 <!---
