@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Development and the Internet of Things
 - 🌱 I’m currently learning UI/UX Design 
 - 📫 Contact me: ykaustubh22@gmail.com
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavKaustubh)]
+- 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavKaustubh)
 
 <!---
 yadavKaustubh/yadavKaustubh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
